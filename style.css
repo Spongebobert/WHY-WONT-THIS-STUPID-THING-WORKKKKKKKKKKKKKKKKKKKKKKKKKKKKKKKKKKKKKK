@@ -1,0 +1,16 @@
+.heading{
+    letter-spacing:10px;
+    font-size: 25px;
+}
+body{
+background-color: rgb(187, 25, 79);
+color:white;
+}
+#jump{
+letter-spacing:3px;
+font-size:30px;
+color:white;
+}
+#camera,#result{
+    border-style:dotted;
+}
